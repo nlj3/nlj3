@@ -1,6 +1,6 @@
 # Noel Jackson
 
-IT systems administrator and software engineer. I build tools that make IT work simpler and safer.
+I Tinker. I build tools that make IT work simpler and safer.
 
 I work in IT operations, so most of what I build starts with a real problem: a task I was tired of doing by hand, or a failure I did not want to see twice. I like software that checks before it acts, keeps a record, and is honest about what it can and cannot do.
 
